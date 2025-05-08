@@ -87,9 +87,9 @@ All peripheral configuration (direction, pull-up, activation) is done via memory
     * Timestamp (from DS3231)
 
 **Schematic**
-
+**![](schematic301.png)**
 **Physical Circuit References**  
-**![][./schematic301.png]**  
+**![](schematic301.png)**
 Figure 1 \- Physical Circuit Photo 1
 
 ![][image2]  
