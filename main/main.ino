@@ -1,3 +1,5 @@
+// CPE 301, Edwin Cook, Austin Fredstrom, Anakin Guzzetta, Daniel Paschall
+
 #include <LiquidCrystal.h>
 #include <Stepper.h>
 #include <RTClib.h>
