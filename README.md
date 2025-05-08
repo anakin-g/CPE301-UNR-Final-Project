@@ -89,7 +89,7 @@ All peripheral configuration (direction, pull-up, activation) is done via memory
 **Schematic**
 
 **Physical Circuit References**  
-**![][image1]**  
+**![][./schematic301.png]**  
 Figure 1 \- Physical Circuit Photo 1
 
 ![][image2]  
