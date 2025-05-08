@@ -87,39 +87,39 @@ All peripheral configuration (direction, pull-up, activation) is done via memory
     * Timestamp (from DS3231)
 
 **Schematic**
-**![](schematic301.png)**
+**![](images/schematic301.png)**
 
 **Physical Circuit References** 
 
-**![](figure1.png)**
+**![](images/figure1.png)**
 
 Figure 1 \- Physical Circuit Photo 1
 
-**![](figure2.png)**
+**![](images/figure2.png)**
 
 Figure 2 \- Physical Circuit Photo 2
 
-**![](figure3.png)**
+**![](images/figure3.png)**
 
 Figure 3 \- Physical Circuit Photo 3  
 
-**![](figure4.png)**
+**![](images/figure4.png)**
 
 Figure 4 \- Physical Circuit Photo 4 
 
 **System Operation References**
 
 **DISABLED**  
-**![](disabled.png)** 
+**![](images/disabled.png)** 
 
 **ERROR**  
-**![](error.png)** 
+**![](images/error.png)** 
 
 **IDLE**  
-**![](idle.png)** 
+**![](images/idle.png)** 
 
 **RUNNING**  
-**![](running.png)**  
+**![](images/running.png)**  
 
 GitHub Repository:
 
