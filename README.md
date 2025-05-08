@@ -88,26 +88,39 @@ All peripheral configuration (direction, pull-up, activation) is done via memory
 
 **Schematic**
 **![](schematic301.png)**
-**Physical Circuit References**  
-**![](schematic301.png)**
+
+**Physical Circuit References** 
+
+**![](figure1.png)**
+
 Figure 1 \- Physical Circuit Photo 1
 
-![][image2]  
+**![](figure2.png)**
+
 Figure 2 \- Physical Circuit Photo 2
 
-![][image3]  
+**![](figure3.png)**
+
 Figure 3 \- Physical Circuit Photo 3  
-Figure 4 \- Physical Circuit Photo 4  
+
+**![](figure4.png)**
+
+Figure 4 \- Physical Circuit Photo 4 
+
 **System Operation References**
 
 **DISABLED**  
-**![][image4]**  
+**![](disabled.png)** 
+
 **ERROR**  
-![][image5]  
+**![](error.png)** 
+
 **IDLE**  
-![][image6]  
+**![](idle.png)** 
+
 **RUNNING**  
-**![][image7]**  
+**![](running.png)**  
+
 GitHub Repository:
 
 [https://github.com/anakin-g/CPE301-UNR-Final-Project](https://github.com/anakin-g/CPE301-UNR-Final-Project)
